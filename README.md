@@ -227,17 +227,7 @@ Speech-T5/
 
 ---
 
-## 🖼️ Visual Outputs
 
-```
-assets/
-├── dashboard_preview.png
-├── stt_interface.png
-├── tts_interface.png
-└── result_demo.png
-```
-
----
 
 ## 🚀 Future Enhancements
 
@@ -276,3 +266,4 @@ Licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
 ---
+
